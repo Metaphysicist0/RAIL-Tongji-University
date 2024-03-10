@@ -2,6 +2,7 @@ This source code implements coordinate conversion between various reference fram
 
 
 **Reference**
+
 [1]  Dai, J. S. (2014). Geometrical foundations and screw algebra for mechanisms and robotics. Higher Education Press, also Screw Algebra and Kinematic Approaches for Mechanisms and Robotics.
 
 [2] Lynch, K. M., & Park, F. C. (2017). Modern robotics. Cambridge University Press.
