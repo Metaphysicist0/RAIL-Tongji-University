@@ -1,6 +1,6 @@
 # This repository is for OPL @ RoboCup 2024. 
 
-# Supervised by Prof. Qijun Chen and Prof. Chengju Liu @ Robotics & Artificial Intelligence Lab (RAIL), Tongji-University.
+# Supervised by Prof. Qijun Chen and Prof. Chengju Liu @ Robotics & Artificial Intelligence Lab (RAIL), Tongji University.
 
 
 This repository is comprised of the following parts:
